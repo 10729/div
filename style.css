@@ -1,0 +1,12 @@
+
+    h1{color:green}     
+    p{  color:blue  }
+    *{border:solid   }
+    div{background-color:brown}
+     .div1{background-color:orange;
+    display:flex;
+    justify-content:space-between ;
+    
+      
+    }
+    .div2{align-items:right }
